@@ -14,7 +14,7 @@ The app  use third party services like Firebase crash analytics that may collect
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
 ### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
+We may employ third-party companies(Like Google play, App Store) and individuals due to the following reasons:  
 * To facilitate our Service;
 * To provide the Service on our behalf;
 * To perform Service-related services; or
